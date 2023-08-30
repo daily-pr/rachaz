@@ -2,7 +2,7 @@
   
 ### 🧞‍♀️ : rachaz.zip
 
-JavaScript
-JSon
-React . Redux
+JavaScript <br>
+JSon <br>
+React . Redux <br>
  
