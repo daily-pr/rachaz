@@ -4,5 +4,5 @@
 
 JavaScript
 JSon
-
+React . Redux
  
