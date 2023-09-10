@@ -1,5 +1,8 @@
 
-**[eslint] failed to load plugin 'outlet' declared in 'src\.eslintrc.js': cannot find module 'eslint-plugin-outlet'** <br>
+**`Error! wtf`** <br>
+<br>
+**[eslint] failed to load plugin 'outlet' declared in 'src\.eslintrc.js' <br>
+: cannot find module 'eslint-plugin-outlet'** <br>
 
 [eslint & react](g.io/@velopert/eslint-and-prettier-in-react) <br>
 [eslint settings](https://velog.io/@kyusung/eslint-config-2) <br>
