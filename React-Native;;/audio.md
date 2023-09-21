@@ -6,6 +6,7 @@ $ npm i react-native-video --save
 $ npm install @react-native-community/slider --save
 ```
 <br>
+
 ```
 import {AudioPlayer} from 'react-native-simple-audio-player';
 ```
