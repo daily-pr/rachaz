@@ -77,3 +77,5 @@ const styles = StyleSheet.create({
 export default BottomTab;
 
 ```
+
+이건 component라서 App.js에 직접 import 안 하고, 사용할 페이지에 import하고 그 페이지를 App.js에 import 하면 됨
