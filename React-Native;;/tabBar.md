@@ -1,3 +1,4 @@
+#### Bottom.js
 ```
 // BottomTabBar.js
 import React from 'react';
